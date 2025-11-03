@@ -3,8 +3,8 @@
 **Objective:**
 Build an interactive e-commerce dashboard in Power BI to visualize sales, profit, andquantity metrics.
 
-**KPIS:**
-**Total sales amount :**  ₹438K 
+# KPIS:
+**Total sales amount :** ₹438K 
 **Total Profit :** ₹37K
 **Units sold :** 6k
 **Total orders:** 500 
